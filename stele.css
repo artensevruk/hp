@@ -1,0 +1,54 @@
+body{ background-image: url(laptop.jpg);
+color :  azure;
+
+font-size: 16px ;
+font-weight: normal;
+font-family :'Roboto', sans-serif;
+ width: 37%;
+ margin: auto;
+}
+a{
+color: firebrick;
+text-decoration: none;
+
+
+}
+
+a:hover {
+text-decoration : underline
+
+}
+ 
+a:active {
+color: darkgoldenrod
+
+}
+
+
+.avatar{width: 200px;
+border-radius: 28px;  
+box-shadow: 4px 4px 14px rgba(0, 0 , 0, 0, 25);     }
+
+.info {color: black;
+margin: 0;
+font-style:italic;
+font-weight: bold;
+ margin: auto ;
+ padding: 15px;
+}
+
+.car {color: black;
+    font-weight: bold;
+    padding: 15px;
+    background-color: ;
+
+
+}
+
+.sss {color:black ;
+    font-weight: bold;
+
+
+}
+
+
